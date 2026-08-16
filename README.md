@@ -1,4 +1,4 @@
-## Full description
+# Full description
 
 I will deliver a complete exploratory data analysis (EDA) of gym members'
 data, turning raw fitness records into clear, actionable insights.
