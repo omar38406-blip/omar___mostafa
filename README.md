@@ -1,3 +1,36 @@
+# Project Description (Catalog / "You will get..." field)
+
+## Short version (title field, 7+ words, ≤75 characters)
+> You will get **a complete gym members data analysis with visual insights**
+
+Alternative options:
+- You will get **a full exploratory data analysis of gym members' data**
+- You will get **actionable fitness insights from gym membership data analysis**
+- You will get **a data-driven report on gym member habits and performance**
+
+## Full description (project summary, ~150 words)
+
+I will deliver a complete exploratory data analysis (EDA) of gym members'
+data, turning raw fitness records into clear, actionable insights.
+
+Using a real-world dataset of gym members (demographics, workout habits, and
+biometric readings), I clean and prepare the data, then explore patterns
+across age, gender, workout type, session duration, calories burned, heart
+rate, and body composition. The analysis includes descriptive statistics,
+correlation analysis, and visualizations (distribution plots, comparisons
+across workout types and experience levels, and trend charts) built in
+Python with Pandas, NumPy, Matplotlib, and Seaborn inside a Jupyter
+Notebook.
+
+You will receive:
+- A fully documented, ready-to-run Jupyter Notebook
+- Cleaned dataset
+- Clear visualizations and summary findings
+- A short written report highlighting key takeaways
+
+Ideal for gyms, fitness startups, or personal trainers who want to
+understand member behavior and improve program design using data.
+
 # 🏋️ Gym Members Data Analysis
 
 An exploratory data analysis (EDA) project examining gym members' workout
