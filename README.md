@@ -1,14 +1,4 @@
-# Project Description (Catalog / "You will get..." field)
-
-## Short version (title field, 7+ words, ≤75 characters)
-> You will get **a complete gym members data analysis with visual insights**
-
-Alternative options:
-- You will get **a full exploratory data analysis of gym members' data**
-- You will get **actionable fitness insights from gym membership data analysis**
-- You will get **a data-driven report on gym member habits and performance**
-
-## Full description (project summary, ~150 words)
+## Full description
 
 I will deliver a complete exploratory data analysis (EDA) of gym members'
 data, turning raw fitness records into clear, actionable insights.
