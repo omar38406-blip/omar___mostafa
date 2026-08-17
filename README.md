@@ -1,3 +1,37 @@
+# Project Description
+> You will get **a machine learning model that predicts gym workout types**
+
+Alternative options:
+- You will get **a complete ML classification project on gym members' data**
+- You will get **a trained KNN model that classifies gym workout types**
+- You will get **an end-to-end machine learning pipeline for fitness data**
+
+## Full description
+
+I built a complete machine learning classification project using a
+real-world dataset of 10,000 gym members, predicting each member's
+workout type (Cardio, Strength, HIIT, Yoga) from their demographic,
+biometric, and workout data.
+
+The project covers the full ML pipeline: data cleaning, exploratory data
+analysis, feature encoding and scaling, and model building. I trained and
+compared multiple models — Logistic Regression, K-Nearest Neighbors (KNN),
+Decision Tree, and a Gaussian Mixture clustering model — then tuned the
+KNN model's hyperparameter (K) to reach the best performance. Model
+evaluation included accuracy, precision, recall, F1-score, and confusion
+matrix analysis. Built in Python with Pandas, NumPy, Scikit-learn,
+Matplotlib, and Seaborn inside a Jupyter Notebook.
+
+You will receive:
+- A fully documented, ready-to-run Jupyter Notebook
+- Cleaned and preprocessed dataset
+- Trained and evaluated classification models with comparison
+- Visualizations (EDA charts, confusion matrix, model tuning curve)
+- A short written summary of results and key findings
+
+Ideal for anyone who wants a hands-on example of a complete supervised
+learning workflow — from raw data to a tuned, evaluated model.
+
 # 🏋️ Gym Workout Type Classification (Machine Learning)
 
 A supervised machine learning project that predicts a gym member's workout
